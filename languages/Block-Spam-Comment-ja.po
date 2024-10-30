@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Block Spam Comment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-28 20:48+0900\n"
+"PO-Revision-Date: 2018-12-02 14:02+0900\n"
+"Last-Translator: \n"
+"Language-Team: poku\n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#. Author URI of the plugin/theme
+msgid "https://xn--pckxe.jp/poku"
+msgstr "https://xn--pckxe.jp/poku"
+
+#. Author of the plugin/theme
+msgid "poku"
+msgstr "ポクくん"
+
+#. Description of the plugin/theme
+msgid "Block spam comments definitely without settings or Captcha."
+msgstr "スパムコメントを確実にブロックするプラグイン。設定は不要です。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/block-spam-comment"
+msgstr "https://wordpress.org/plugins/block-spam-comment"
+
+#. Plugin Name of the plugin/theme
+msgid "Block Spam Comment"
+msgstr "Block Spam Comment"
+
+#: ../Block-Spam-Comment.php:83
+msgid ""
+"<h3>ERROR</h3><p>Our systems have detected unusual traffic from your "
+"computer network. Please enable JavaScript and try to post your comment "
+"again.</p>"
+msgstr ""
+"<h3>エラー</h3><p>通常とは異なるトラフィックを検出しました。JavaScriptを有効"
+"にして、もう一度コメントの投稿をお試しください。</p>"
+
+#: ../Block-Spam-Comment.php:128
+msgid "Logs"
+msgstr "記録"
+
+#: ../Block-Spam-Comment.php:151
+msgid "No data"
+msgstr "データがありません"
+
+#: ../Block-Spam-Comment.php:188
+msgid "The number of blocked Comments"
+msgstr "ブロックしたコメントの数"
+
+#: ../Block-Spam-Comment.php:189
+msgid "Last 24 hours"
+msgstr "直近24時間"
+
+#: ../Block-Spam-Comment.php:190
+msgid "ALL"
+msgstr "総数"
+
+#: ../Block-Spam-Comment.php:191
+msgid "The list of blocked Comments"
+msgstr "ブロックしたコメントリスト"
+
+#: ../Block-Spam-Comment.php:192
+msgid "<tr><th>time</th><th>author</th><th>IP</th><th>user agent</th></tr>"
+msgstr ""
+"<tr><th>日時</th><th>作成者</th><th>IP</th><th>ユーザーエージェント</th></tr>"
+
+#: ../Block-Spam-Comment.php:193
+msgid ""
+"The maximum number of saved logs is 9999. The older logs are deleted "
+"automatically."
+msgstr ""
+"データは最大9999件まで保存されます。それ以上は古いものから順番に削除されま"
+"す。"
+
+#: ../Block-Spam-Comment.php:194
+msgid "Download all data"
+msgstr "全てのデータをダウンロードする"
+
+#: ../Block-Spam-Comment.php:195
+msgid "You can download a csv file with data of blocked comments."
+msgstr "ブロックしたコメントのデータをcsv形式のファイルでダウンロードできます"
